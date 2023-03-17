@@ -8,4 +8,6 @@ public class java{
 	@test 
 	void testB1Edit(){
 	}
+	@test testMasterEdit(){
+	}
 }
