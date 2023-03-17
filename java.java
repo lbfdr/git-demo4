@@ -5,5 +5,7 @@ public class java{
 	@test
 	void test2(){
 		 System.out.println("helloWorld2");
-
+	@test 
+	void testB1Edit(){
+	}
 }
