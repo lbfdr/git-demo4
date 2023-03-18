@@ -12,4 +12,8 @@ public class java{
 		System.out.println("hello");
 		System.out.println("hello,master");
 	}
+        @test testMasterEdit(){
+		System.out.println("hello");
+		System.out.println("welcome pull");
+	}
 }
