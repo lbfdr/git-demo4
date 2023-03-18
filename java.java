@@ -9,5 +9,6 @@ public class java{
 	void testB1Edit(){
 	}
 	@test testMasterEdit(){
+		System.out.println("hello");
 	}
 }
