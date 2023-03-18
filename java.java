@@ -10,5 +10,6 @@ public class java{
 	}
 	@test testMasterEdit(){
 		System.out.println("hello");
+		System.out.println("hello,master");
 	}
 }
