@@ -16,4 +16,9 @@ public class java{
 		System.out.println("hello");
 		System.out.println("welcome pull");
 	}
+	@test
+	void testPush(){
+		System.out.print("pushTest");
+	}
 }
+
